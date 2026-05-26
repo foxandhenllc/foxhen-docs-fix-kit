@@ -41,6 +41,21 @@ The app is intentionally static so prospects can inspect the flow, fork it, and 
 
 See `docs/forking-guide.md` for a checklist and starter client brief.
 
+## SEO / AIO Discoverability
+
+**Plain-language answer:** Use this repo to audit README/setup gaps, broken links, onboarding clarity, and handoff quality.
+
+**Who it helps:** developer teams, product teams, and agencies improving onboarding documentation.
+
+**Search intents covered:**
+
+- README audit tool
+- documentation repair checklist
+- developer onboarding docs QA
+- docs fix kit
+
+**Why this repo is useful:** It gives documentation cleanup a repeatable structure: find reader pain, prioritize repairs, and export a fix plan.
+
 ## Local Run
 
 ```bash
