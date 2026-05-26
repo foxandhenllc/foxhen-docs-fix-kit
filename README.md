@@ -1,6 +1,6 @@
 # Docs Fix Kit
 
-Public Fox & Hen working sample for **Technical writing and docs QA**.
+Documentation repair kit for auditing README/setup gaps, broken links, onboarding clarity, and handoff quality.
 
 ![Demo screenshot](docs/demo-screenshot.png)
 
@@ -8,6 +8,10 @@ Public Fox & Hen working sample for **Technical writing and docs QA**.
 
 - Demo: [https://foxhen-docs-fix-kit.vercel.app](https://foxhen-docs-fix-kit.vercel.app)
 - Repository: [https://github.com/foxandhenllc/foxhen-docs-fix-kit](https://github.com/foxandhenllc/foxhen-docs-fix-kit)
+
+## Purpose
+
+Documentation repair kit for auditing README/setup gaps, broken links, onboarding clarity, and handoff quality.
 
 ## Fully Working Behaviors
 
@@ -19,7 +23,7 @@ Public Fox & Hen working sample for **Technical writing and docs QA**.
 
 ## Service Mapping
 
-This demo packages a lightweight technical writing and docs qa workflow around:
+This repo packages a focused, public-safe workflow around:
 
 - Ranked board
 - Editable item inspector

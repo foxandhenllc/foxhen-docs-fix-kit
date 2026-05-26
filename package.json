@@ -21,5 +21,17 @@
   },
   "engines": {
     "node": ">=20"
-  }
+  },
+  "description": "Documentation repair kit for auditing README/setup gaps, broken links, onboarding clarity, and handoff quality.",
+  "homepage": "https://foxhen-docs-fix-kit.vercel.app",
+  "keywords": [
+    "documentation",
+    "readme",
+    "developer-tools",
+    "qa",
+    "react",
+    "typescript",
+    "vite",
+    "fox-and-hen"
+  ]
 }
