@@ -23,7 +23,7 @@
     "node": ">=20"
   },
   "description": "Documentation repair kit for auditing README/setup gaps, broken links, onboarding clarity, and handoff quality.",
-  "homepage": "https://foxhen-docs-fix-kit.vercel.app",
+  "homepage": "https://freetoolsforpeople.com/docs-fix-kit",
   "keywords": [
     "audit",
     "checklist",

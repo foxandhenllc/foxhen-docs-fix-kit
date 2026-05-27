@@ -6,7 +6,7 @@ Documentation repair kit for auditing README/setup gaps, broken links, onboardin
 
 ## Live Demo
 
-- Demo: [https://foxhen-docs-fix-kit.vercel.app](https://foxhen-docs-fix-kit.vercel.app)
+- Demo: [https://freetoolsforpeople.com/docs-fix-kit](https://freetoolsforpeople.com/docs-fix-kit)
 - Repository: [https://github.com/foxandhenllc/foxhen-docs-fix-kit](https://github.com/foxandhenllc/foxhen-docs-fix-kit)
 
 ## Purpose

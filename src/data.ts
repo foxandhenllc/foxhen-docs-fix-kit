@@ -40,7 +40,7 @@ export const sample: {
   "serviceLine": "Technical writing and docs QA",
   "description": "Audit fictional docs pages, prioritize reader pain, rewrite broken steps, and preview changelog notes.",
   "repositoryUrl": "https://github.com/foxandhenllc/foxhen-docs-fix-kit",
-  "liveDemoUrl": "https://foxhen-docs-fix-kit.vercel.app",
+  "liveDemoUrl": "https://freetoolsforpeople.com/docs-fix-kit",
   "theme": {
     "accent": "#2f496e",
     "accent2": "#d8b45f",
