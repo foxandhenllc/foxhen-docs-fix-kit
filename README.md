@@ -1,5 +1,7 @@
 # Docs Fix Kit
 
+[![Build](https://github.com/foxandhenllc/foxhen-docs-fix-kit/actions/workflows/build.yml/badge.svg)](https://github.com/foxandhenllc/foxhen-docs-fix-kit/actions/workflows/build.yml)
+
 Documentation repair kit for auditing README/setup gaps, broken links, onboarding clarity, and handoff quality.
 
 ![Demo screenshot](docs/demo-screenshot.png)
@@ -56,6 +58,13 @@ See `docs/forking-guide.md` for a checklist and starter client brief.
 
 **Why this repo is useful:** It gives documentation cleanup a repeatable structure: find reader pain, prioritize repairs, and export a fix plan.
 
+## Open Source Readiness
+
+- MIT licensed for reuse, remixing, and client-safe adaptation.
+- GitHub Actions build workflow runs install, typecheck, tests when present, and production build.
+- Contribution guide, roadmap, and issue templates are included for public collaboration.
+- Public-safe data policy keeps examples fictional and reviewable.
+
 ## Local Run
 
 ```bash
@@ -64,6 +73,22 @@ npm run dev
 npm run build
 ```
 
+## Validation
+
+```bash
+npm run typecheck --if-present
+npm run test --if-present
+npm run build --if-present
+```
+
 ## Public-Safe Scope
 
 This is a static React/Vite demo with fictional sample data. It includes no production data, credentials, real contacts, copied customer work, backend, auth, or external service calls.
+
+## Contributing
+
+See `CONTRIBUTING.md` for public-safe contribution rules, local validation commands, and good first contribution ideas. Roadmap items live in `ROADMAP.md`.
+
+## License
+
+MIT - see `LICENSE`.
